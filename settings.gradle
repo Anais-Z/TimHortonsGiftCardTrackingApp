@@ -1,0 +1,2 @@
+rootProject.name='TimHortonsGiftCardApp'
+include ':app'
